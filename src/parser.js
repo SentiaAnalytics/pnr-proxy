@@ -1,13 +1,13 @@
 //@flow weak
 const {compose, evolve, merge, drop, slice, map, assoc} = require('ramda')
 const errorCodes = require('./error-codes.json')
+
 const then = f => p => p.then(f)
 
 const read = start => len => text =>
   slice(start-1, start + len - 1, text).trim()
 
-const toUTF8 = x => new Buffer(x).toString('utf-8')
-
+// all responses include a header on the same format
 const parseHeader = result =>
   map(
     f => f(result.trim()),
@@ -24,8 +24,9 @@ const parseHeader = result =>
     }
   )
 
-const readBody = read(29)
-
+// body will contain 3 or more records each with its own format and content length
+// the first 3 bytes of every record shows the record type
+// return the record, and the remaining data
 const readRecord = data => {
   const id = read(1)(3)(data)
   const len = recordLength[id] || 0
@@ -47,6 +48,7 @@ const recordLength = {
   '999': 21
 }
 
+// each record has its own parsing rules
 const recordParsers = {
   '000': data => ({
     type: read(10)(3)(data),
@@ -91,6 +93,7 @@ const recordParsers = {
   })
 }
 
+// read each record form the body and run them through the respective parsers
 const parseBody = data => {
   const go = records => body => {
     if (body.length <= 0) return records

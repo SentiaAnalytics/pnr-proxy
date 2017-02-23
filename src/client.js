@@ -1,8 +1,7 @@
 //@flow weak
-const HOST = 'direkte-demo.cpr.dk'
 const {parseLogin, parseResult} = require('./parser')
 const socket = require('./socket')
-const {replace, assoc, merge, evolve, range, map, compose, take} = require('ramda')
+const {replace, assoc, merge, evolve, compose} = require('ramda')
 
 const tap = f => x => (f(x), x)
 const then = f => p => p.then(f)

@@ -22,4 +22,4 @@ app.get('/pnr/:pnr', (req, res) =>
     .then(x => res.send(x), e => res.status(500).send(e))
 )
 
-app.listen(PORT, () => console.log(`Server listening on port ${PORT}`))
+app.listen(PORT, () => console.log(`Server listening on port ${String(PORT)}`))
