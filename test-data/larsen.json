@@ -1,0 +1,522 @@
+[
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "1301814026",
+        "dob": "19810113",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "198101132000",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Karina Larsen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 14",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "014",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Karina",
+        "lastname": "Larsen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0701614046",
+        "dob": "19610107",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "196101072000",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "K-miljøets kontrollant",
+        "formattedName": "Hanne Larsen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 14",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "014",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Hanne Frederikke Sofie",
+        "lastname": "Larsen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0705614857",
+        "dob": "19610507",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "199202011499",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Tage Olsen",
+        "COName": "c/o Larsen",
+        "locality": "",
+        "standardAddress": "Boulevarden 14",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "014",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Tage",
+        "lastname": "Olsen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0709614266",
+        "dob": "19610907",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "198010072000",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Elisabeth Ærenskov-Rasmussen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Byvænget 10,1 mf",
+        "city": "Risskov",
+        "postcode": "8000",
+        "postDistrict": "Århus C",
+        "municipalityCode": "0751",
+        "streetCode": "7511",
+        "houseNumber": "010",
+        "floor": "01",
+        "apartment": "mf",
+        "buildingNumber": "",
+        "forenames": "Elisabeth",
+        "lastname": "Ærenskov-Rasmussen",
+        "street": "Byvænget",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0702614082",
+        "dob": "19610207",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "198009092000",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Heidi Dahl-Eriksen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Industrivænget 92,1 tv",
+        "city": "Hasseris",
+        "postcode": "9000",
+        "postDistrict": "Aalborg",
+        "municipalityCode": "0851",
+        "streetCode": "8512",
+        "houseNumber": "092",
+        "floor": "01",
+        "apartment": "tv",
+        "buildingNumber": "",
+        "forenames": "Heidi",
+        "lastname": "Dahl-Eriksen",
+        "street": "Industrivænget",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0709614290",
+        "dob": "19610907",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "197902032000",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "Ekspedient",
+        "formattedName": "Grethe Roland",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Industrivænget 10,st tv",
+        "city": "Hasseris",
+        "postcode": "9000",
+        "postDistrict": "Aalborg",
+        "municipalityCode": "0851",
+        "streetCode": "8512",
+        "houseNumber": "010",
+        "floor": "st",
+        "apartment": "tv",
+        "buildingNumber": "",
+        "forenames": "Grethe",
+        "lastname": "Roland",
+        "street": "Industrivænget",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0708614246",
+        "dob": "19610807",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "198006022000",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "Designer",
+        "formattedName": "Monika Eliasen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Industrivænget 4,1 tv",
+        "city": "Hasseris",
+        "postcode": "9000",
+        "postDistrict": "Aalborg",
+        "municipalityCode": "0851",
+        "streetCode": "8512",
+        "houseNumber": "004",
+        "floor": "01",
+        "apartment": "tv",
+        "buildingNumber": "",
+        "forenames": "Monika",
+        "lastname": "Eliasen",
+        "street": "Industrivænget",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0701614038",
+        "dob": "19610107",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "199109161501",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Asta Jakobsen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Byvænget 10",
+        "city": "Risskov",
+        "postcode": "8000",
+        "postDistrict": "Århus C",
+        "municipalityCode": "0751",
+        "streetCode": "7511",
+        "houseNumber": "010",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Asta",
+        "lastname": "Jakobsen",
+        "street": "Byvænget",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0709614401",
+        "dob": "19610907",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "199311221419",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Ove Brammer",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Pr Caroline Amlg 2",
+        "city": "",
+        "postcode": "9000",
+        "postDistrict": "Aalborg",
+        "municipalityCode": "0851",
+        "streetCode": "8520",
+        "houseNumber": "002",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Ove",
+        "lastname": "Brammer",
+        "street": "Pr Caroline Amlg",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0702614074",
+        "dob": "19610207",
+        "sex": "F",
+        "status": "70",
+        "statusDate": "199109131614",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Tove Andreasen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "",
+        "city": "",
+        "postcode": "0000",
+        "postDistrict": "",
+        "municipalityCode": "0000",
+        "streetCode": "0000",
+        "houseNumber": "",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Tove",
+        "lastname": "Andreasen",
+        "street": "",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  }
+]

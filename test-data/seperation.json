@@ -1,0 +1,158 @@
+[
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0301801068",
+        "dob": "19800103",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "201503251243",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Tina Hansen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Helsingørsvej 9",
+        "city": "",
+        "postcode": "3490",
+        "postDistrict": "Kvistgård",
+        "municipalityCode": "0217",
+        "streetCode": "2171",
+        "houseNumber": "009",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Tina",
+        "lastname": "Hansen",
+        "street": "Helsingørsvej",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "1111791003",
+        "dob": "19791111",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "201509171313",
+        "nameAddrressProtectionDate": "201601110000",
+        "occupation": "",
+        "formattedName": "",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "",
+        "city": "",
+        "postcode": "0000",
+        "postDistrict": "",
+        "municipalityCode": "0000",
+        "streetCode": "0000",
+        "houseNumber": "",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "",
+        "lastname": "",
+        "street": "",
+        "directMarketingProtectionDate": "201601110000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "1802741002",
+        "dob": "19740218",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "201501011232",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Gitte Nielsen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Odensevej 2",
+        "city": "",
+        "postcode": "5270",
+        "postDistrict": "Odense N",
+        "municipalityCode": "0461",
+        "streetCode": "4611",
+        "houseNumber": "002",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Gitte",
+        "lastname": "Nielsen",
+        "street": "Odensevej",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  }
+]

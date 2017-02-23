@@ -1,0 +1,18 @@
+{
+  "00": "Ingen fejl",
+  "01": "BRUGER-ID/KENDEORD ikke korrekt",
+  "02": "KENDEORD udløbet, NYT KENDEORD krævet",
+  "03": "NYT KENDEORD opfylder ikke formatet",
+  "04": "Ikke adgang til CPR (CTSERVICE er midlertidigt lukket)",
+  "05": "PNR ukendt i CPR",
+  "06": "Ukendt KUNDENR",
+  "07": "Timeout – ny LOGON nødvendig",
+  "08": "Ikke adgang til CPR (CTSERVICE er ikke aktiv)",
+  "09": "Alvorligt problem. Betydning: Der er ingen forbindelse mellem klienten og CPR-systemet; kontakt CSC Service Center på tlf. 36 14 61 92",
+  "10": "ABON_TYPE ukendt",
+  "11": "DATA_TYPE ukendt",
+  "14": "BRUGER-ID har ikke adgang til transaktionen (CTPROFIL er midlertidigt lukket) 16 = IP-adressen forkert",
+  "17": "’’PNR=’’er ikke angivet",
+  "18": "BRUGER-ID har ikke adgang til transaktionen (CTPROFIL er ikke aktiv)",
+  "24": "BRUGER-ID har ikke adgang til transaktionen (CTPERSKOD_PROFIL er midlertidigt lukket) 28 = BRUGER-ID har ikke adgang til transaktionen (CTPERSKOD_PROFIL er ikke aktiv)"
+}

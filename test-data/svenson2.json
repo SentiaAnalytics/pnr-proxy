@@ -1,0 +1,158 @@
+[
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0508610017",
+        "dob": "19610805",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200509251401",
+        "nameAddrressProtectionDate": "201611100000",
+        "occupation": "",
+        "formattedName": "",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "",
+        "city": "",
+        "postcode": "0000",
+        "postDistrict": "",
+        "municipalityCode": "0000",
+        "streetCode": "0000",
+        "houseNumber": "",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "",
+        "lastname": "",
+        "street": "",
+        "directMarketingProtectionDate": "200510170000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0101901009",
+        "dob": "19900101",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200509251527",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Mogens Albinus Svensson",
+        "COName": "c/o Kamma Schmidt",
+        "locality": "",
+        "standardAddress": "Boulevarden 8 A,1,-1",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "008A",
+        "floor": "01",
+        "apartment": "0001",
+        "buildingNumber": "",
+        "forenames": "Mogens Albinus",
+        "lastname": "Svensson",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0801931006",
+        "dob": "19930108",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200509251529",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Karen Albinus Svensson",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 8 A,1,-1",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "008A",
+        "floor": "01",
+        "apartment": "0001",
+        "buildingNumber": "",
+        "forenames": "Karen Albinus",
+        "lastname": "Svensson",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  }
+]

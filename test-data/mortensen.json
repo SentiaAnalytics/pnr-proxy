@@ -1,0 +1,262 @@
+[
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "0hMAVGVt",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0707614285",
+        "dob": "19610707",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "201409300099",
+        "moveInDate": "198010102000",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "Socialrådg.",
+        "formattedName": "Jens Mortensen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 101,1 mf",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "101",
+        "floor": "01",
+        "apartment": "mf",
+        "buildingNumber": "",
+        "forenames": "Jens",
+        "lastname": "Mortensen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0706614184",
+        "dob": "19610607",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "198010102000",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "Socialrådg.",
+        "formattedName": "Anne Mortensen",
+        "COName": "",
+        "locality": "Solhavehjemmet",
+        "standardAddress": "Industrivænget 2,st tv",
+        "city": "Hasseris",
+        "postcode": "9000",
+        "postDistrict": "Aalborg",
+        "municipalityCode": "0851",
+        "streetCode": "8512",
+        "houseNumber": "002",
+        "floor": "st",
+        "apartment": "tv",
+        "buildingNumber": "",
+        "forenames": "Anne",
+        "lastname": "Mortensen",
+        "street": "Industrivænget",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "1OQrYj9l",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "1312814362",
+        "dob": "19811213",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "198112132000",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Janne Mortensen",
+        "COName": "",
+        "locality": "Solhavehjemmet",
+        "standardAddress": "Industrivænget 2,st tv",
+        "city": "Hasseris",
+        "postcode": "9000",
+        "postDistrict": "Aalborg",
+        "municipalityCode": "0851",
+        "streetCode": "8512",
+        "houseNumber": "002",
+        "floor": "st",
+        "apartment": "tv",
+        "buildingNumber": "",
+        "forenames": "Janne",
+        "lastname": "Mortensen",
+        "street": "Industrivænget",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "IErVscqe",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "1301814077",
+        "dob": "19810113",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "198101132000",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Niels Mortensen",
+        "COName": "",
+        "locality": "Solhavehjemmet",
+        "standardAddress": "Industrivænget 2,st tv",
+        "city": "Hasseris",
+        "postcode": "9000",
+        "postDistrict": "Aalborg",
+        "municipalityCode": "0851",
+        "streetCode": "8512",
+        "houseNumber": "002",
+        "floor": "st",
+        "apartment": "tv",
+        "buildingNumber": "",
+        "forenames": "Niels",
+        "lastname": "Mortensen",
+        "street": "Industrivænget",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "Ou6ATZRZ",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0701614054",
+        "dob": "19610107",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "199105080000",
+        "moveInDate": "199101121742",
+        "nameAddrressProtectionDate": "201611100000",
+        "occupation": "",
+        "formattedName": "",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "",
+        "city": "",
+        "postcode": "0000",
+        "postDistrict": "",
+        "municipalityCode": "0000",
+        "streetCode": "0000",
+        "houseNumber": "",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "",
+        "lastname": "",
+        "street": "",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  }
+]

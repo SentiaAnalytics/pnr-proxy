@@ -1,0 +1,106 @@
+[
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "2005610001",
+        "dob": "19610520",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200505011452",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Jens Petersen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Chr. Jensens Vej 1",
+        "city": "Hillerød",
+        "postcode": "3400",
+        "postDistrict": "Hillerød",
+        "municipalityCode": "0219",
+        "streetCode": "2191",
+        "houseNumber": "001",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Jens",
+        "lastname": "Petersen",
+        "street": "Chr. Jensens Vej",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "2010880004",
+        "dob": "19881020",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200605011506",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Anja Christensen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Gl. Kongevej 1",
+        "city": "Hillerød",
+        "postcode": "3400",
+        "postDistrict": "Hillerød",
+        "municipalityCode": "0219",
+        "streetCode": "2193",
+        "houseNumber": "001",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Anja",
+        "lastname": "Christensen",
+        "street": "Gl. Kongevej",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  }
+]

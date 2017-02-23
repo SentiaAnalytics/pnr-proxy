@@ -1,0 +1,471 @@
+[
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0707650079",
+        "dob": "19650707",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200501011053",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Peter Hansen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 4",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "004",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Peter",
+        "lastname": "Hansen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0701650018",
+        "dob": "19650107",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200501011106",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Mona Hansen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 12",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "012",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Mona",
+        "lastname": "Hansen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0101851001",
+        "dob": "19850101",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200501011112",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Hans Hansen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 12",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "012",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Hans",
+        "lastname": "Hansen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0101851028",
+        "dob": "19850101",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200501011115",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Pia Hansen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 12",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "012",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Pia",
+        "lastname": "Hansen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0201871018",
+        "dob": "19870102",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200501011246",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Lisa Hansen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 12",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "012",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Lisa",
+        "lastname": "Hansen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0208901028",
+        "dob": "19900802",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200501011255",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Mia Hansen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 12",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "012",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Mia",
+        "lastname": "Hansen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0808055015",
+        "dob": "20050808",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200508080721",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Carsten Hansen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 4",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "004",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Carsten",
+        "lastname": "Hansen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0808055007",
+        "dob": "20050808",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200508080720",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Martin Hansen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 4",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "004",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Martin",
+        "lastname": "Hansen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0748",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000002"
+      },
+      "002": "0021301811019Fjordvej 1                        01100 Oslo                        Norge                                                                                                 200510031530",
+      "001": {
+        "type": "001",
+        "pnr": "1301811019",
+        "dob": "19810113",
+        "sex": "M",
+        "status": "80",
+        "statusDate": "200509251530",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Erik Jensen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "",
+        "city": "",
+        "postcode": "0000",
+        "postDistrict": "",
+        "municipalityCode": "0000",
+        "streetCode": "0000",
+        "houseNumber": "",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Erik",
+        "lastname": "Jensen",
+        "street": "",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  }
+]

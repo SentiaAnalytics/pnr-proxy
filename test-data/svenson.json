@@ -1,0 +1,315 @@
+[
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0706610049",
+        "dob": "19610607",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200510151439",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Gert Holm Svensson",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 101 A,1,-2",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "101A",
+        "floor": "01",
+        "apartment": "0002",
+        "buildingNumber": "",
+        "forenames": "Gert Holm",
+        "lastname": "Svensson",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0748",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000002"
+      },
+      "002": "0020101600068Phuket Ferie Resource                                                                                                                                                     201608201457",
+      "001": {
+        "type": "001",
+        "pnr": "0101600068",
+        "dob": "19600101",
+        "sex": "F",
+        "status": "80",
+        "statusDate": "201508011457",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Vinnie Peters Madsen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "",
+        "city": "",
+        "postcode": "0000",
+        "postDistrict": "",
+        "municipalityCode": "0000",
+        "streetCode": "0000",
+        "houseNumber": "",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Vinnie Peters",
+        "lastname": "Madsen",
+        "street": "",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0506941008",
+        "dob": "19940605",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200510151440",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Susan Holm Svensson",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 101 A,1,-2",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "101A",
+        "floor": "01",
+        "apartment": "0002",
+        "buildingNumber": "",
+        "forenames": "Susan Holm",
+        "lastname": "Svensson",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0605901018",
+        "dob": "19900506",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200510151439",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Mia Holm Svensson",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 101 A,1,-2",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "101A",
+        "floor": "01",
+        "apartment": "0002",
+        "buildingNumber": "",
+        "forenames": "Mia Holm",
+        "lastname": "Svensson",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0705921059",
+        "dob": "19920507",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200510151439",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Gert Holm Svensson",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 101 A,1,-2",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "101A",
+        "floor": "01",
+        "apartment": "0002",
+        "buildingNumber": "",
+        "forenames": "Gert Holm",
+        "lastname": "Svensson",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0705650012",
+        "dob": "19650507",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "000000000000",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200510151515",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Mona Hansen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Boulevarden 101 A,1,-2",
+        "city": "",
+        "postcode": "6800",
+        "postDistrict": "Varde",
+        "municipalityCode": "0573",
+        "streetCode": "5731",
+        "houseNumber": "101A",
+        "floor": "01",
+        "apartment": "0002",
+        "buildingNumber": "",
+        "forenames": "Mona",
+        "lastname": "Hansen",
+        "street": "Boulevarden",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  }
+]

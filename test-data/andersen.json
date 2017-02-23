@@ -1,0 +1,210 @@
+[
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0710610029",
+        "dob": "19611007",
+        "sex": "M",
+        "status": "01",
+        "statusDate": "196110071037",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "196110071037",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Jan Andersen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Abel Catrines Gade 1",
+        "city": "",
+        "postcode": "1654",
+        "postDistrict": "København V",
+        "municipalityCode": "0101",
+        "streetCode": "0004",
+        "houseNumber": "001",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Jan",
+        "lastname": "Andersen",
+        "street": "Abel Catrines Gade",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0706970010",
+        "dob": "19970607",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "199706071046",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "199706071046",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Astrid Andersen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Abel Catrines Gade 1",
+        "city": "",
+        "postcode": "1654",
+        "postDistrict": "København V",
+        "municipalityCode": "0101",
+        "streetCode": "0004",
+        "houseNumber": "001",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Astrid",
+        "lastname": "Andersen",
+        "street": "Abel Catrines Gade",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0706015000",
+        "dob": "20010607",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "200106071043",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "200106071043",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Pernille Andersen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Abel Catrines Gade 1",
+        "city": "",
+        "postcode": "1654",
+        "postDistrict": "København V",
+        "municipalityCode": "0101",
+        "streetCode": "0004",
+        "houseNumber": "001",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Pernille",
+        "lastname": "Andersen",
+        "street": "Abel Catrines Gade",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  },
+  {
+    "userID": "0361",
+    "subscriptionType": "0",
+    "dataType": "6",
+    "token": "aokbeupg",
+    "username": "WUDI0160",
+    "errorCode": "00",
+    "errorDetails": "Ingen fejl",
+    "contentLength": "0553",
+    "body": {
+      "999": {
+        "type": "999",
+        "recordCount": "00000001"
+      },
+      "001": {
+        "type": "001",
+        "pnr": "0706035028",
+        "dob": "20030607",
+        "sex": "F",
+        "status": "01",
+        "statusDate": "200306071042",
+        "pnrStatus": "",
+        "tutelageDate": "000000000000",
+        "moveInDate": "201610261247",
+        "nameAddrressProtectionDate": "000000000000",
+        "occupation": "",
+        "formattedName": "Anne Andersen",
+        "COName": "",
+        "locality": "",
+        "standardAddress": "Sommervej 2",
+        "city": "Sælfjeld",
+        "postcode": "3000",
+        "postDistrict": "Helsingør",
+        "municipalityCode": "0217",
+        "streetCode": "2175",
+        "houseNumber": "002",
+        "floor": "",
+        "apartment": "",
+        "buildingNumber": "",
+        "forenames": "Anne",
+        "lastname": "Andersen",
+        "street": "Sommervej",
+        "directMarketingProtectionDate": "000000000000"
+      },
+      "000": {
+        "type": "000",
+        "assignmentNumber": "036101",
+        "date": "20170223",
+        "lastDate": "00000000"
+      }
+    }
+  }
+]

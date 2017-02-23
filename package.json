@@ -1,0 +1,17 @@
+{
+  "name": "testdrive-cpr",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": {},
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.39.0"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "ramda": "^0.23.0"
+  },
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
