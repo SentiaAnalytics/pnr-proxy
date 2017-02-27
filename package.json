@@ -1,9 +1,12 @@
 {
-  "name": "testdrive-cpr",
+  "name": "sentia-pnr",
   "version": "1.0.0",
   "main": "src/index.js",
   "repository": {},
   "license": "MIT",
+  "bin": {
+    "src/server"
+  },
   "devDependencies": {
     "flow-bin": "^0.39.0"
   },

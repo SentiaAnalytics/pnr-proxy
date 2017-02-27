@@ -12,11 +12,13 @@ const OPTIONS = {
 }
 
 const pnrLookup = require('./index')(OPTIONS)
+
 app.use((req, res, next) => {
   !AUTH_TOKEN ? next() :
   req.headers.authorization === AUTH_TOKEN ? next() :
   res.status(403).send('Invalid Authorization header')
 })
+
 app.get('/pnr/:pnr', (req, res) =>
   pnrLookup(req.params.pnr)
     .then(x => res.send(x), e => res.status(500).send(e))
