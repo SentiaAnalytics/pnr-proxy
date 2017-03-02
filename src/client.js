@@ -32,6 +32,8 @@ const pnrRequest = cpr => ({username, userID, token}) =>
 const cleanCpr = replace('-', '')
 
 module.exports = _options => {
+  console.log(_options)
+
   let options = merge(DEFAULTS)(padCredentials(_options))
 
   const log = key => value =>

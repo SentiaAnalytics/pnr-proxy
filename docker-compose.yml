@@ -1,0 +1,12 @@
+version: "3"
+services:
+  sentia-pnr:
+    build: .
+    ports:
+      - "8080:80"
+    environment:
+      - CPR_HOST=${CPR_HOST}
+      - CPR_USER_ID=${CPR_USER_ID}
+      - CPR_USERNAME=${CPR_USERNAME}
+      - CPR_PASSWORD=${CPR_PASSWORD}
+      - PORT=80
